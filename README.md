@@ -1,4 +1,4 @@
-# Trace
+# ["Going to a trap house” conveys more fear than “Going to a mall”:Benchmarking Emotion Context Sensitivity for LLMs](https://aclanthology.org/2025.findings-emnlp.802.pdf)
 This is an official repository of Trace.
 
 ## Run evaluation
